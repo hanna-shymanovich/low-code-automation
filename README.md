@@ -1,5 +1,15 @@
 # Low-Code Automation: Python + Playwright
 
+This repository contains homework assignments for the Low-Code Automation course.
+
+## Project Structure
+
+- `tests/`
+  - `test_contacts_app.py` – Module 2: API Automation with Playwright
+  - Other Python test scripts – Module 1: Low-Code Automation with Python + Playwright
+- `.gitignore` – ignores temporary and sensitive files
+- `README.md` – project overview
+
 This repository contains homework assignments for the Low-Code Automation course. It demonstrates automated testing using Python and Playwright, including both UI and API automation.
 
 ---
@@ -72,10 +82,3 @@ All test scripts are located in the tests/ folder.
 Auth tokens and sensitive information are never committed.
 
 The project demonstrates integration of low-code automation with proper version control practices.
-
-
-
-
-
-
-
